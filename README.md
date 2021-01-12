@@ -1,8 +1,7 @@
 
 # DynareR: A Seamless Integration of R and Dynare
 
-Sagiru Mati 2020-08-08
-
+http://www.macromodelbase.com/
 # About DynareR
 
 DynareR is an R package that can run `Dynare` program from R Markdown.
